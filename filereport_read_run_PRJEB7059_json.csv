@@ -1,3 +1,6 @@
-[
-{"study_accession":"PRJEB7059","sample_accession":"SAMEA2708764","experiment_accession":"ERX541492","run_accession":"ERR583405","tax_id":"433727","scientific_name":"hot springs metagenome","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/ERR583/ERR583405/ERR583405_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/ERR583/ERR583405/ERR583405_2.fastq.gz","submitted_ftp":"ftp.sra.ebi.ac.uk/vol1/run/ERR583/ERR583405/B_S12_L001_R1_001.fastq.gz;ftp.sra.ebi.ac.uk/vol1/run/ERR583/ERR583405/B_S12_L001_R2_001.fastq.gz","sra_ftp":"ftp.sra.ebi.ac.uk/vol1/err/ERR583/ERR583405"}
-]
+
+study_accession   sample_accession   experiment_accession   run_accession     tax_id    scientific_name            fastq_ftp.                                                            
+PRJEB7059         SAMEA2708764       ERX541492              ERR583405         433727    hot springs metagenome     ftp.sra.ebi.ac.uk/vol1/fastq/ERR583/ERR583405/ERR583405_1.fastq.gz
+PRJEB7059         SAMEA2708764       ERX541492              ERR583405.        433727    hot springs metagenome     ftp.sra.ebi.ac.uk/vol1/fastq/ERR583/ERR583405/ERR583405_2.fastq.gz
+
+
