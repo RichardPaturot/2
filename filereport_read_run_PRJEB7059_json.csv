@@ -1,6 +1,5 @@
 
-study_accession   sample_accession   experiment_accession   run_accession     tax_id    scientific_name            fastq_ftp.                                                            
-PRJEB7059         SAMEA2708764       ERX541492              ERR583405         433727    hot springs metagenome     ftp.sra.ebi.ac.uk/vol1/fastq/ERR583/ERR583405/ERR583405_1.fastq.gz
-PRJEB7059         SAMEA2708764       ERX541492              ERR583405.        433727    hot springs metagenome     ftp.sra.ebi.ac.uk/vol1/fastq/ERR583/ERR583405/ERR583405_2.fastq.gz
-
+sample_accession   run_accession     fastq_ftp.                                                              submitted_ftp
+SAMEA2708764       ERR583405         ftp.sra.ebi.ac.uk/vol1/fastq/ERR583/ERR583405/ERR583405_1.fastq.gz      http://ftp.sra.ebi.ac.uk/vol1/run/ERR583/ERR583405/B_S12_L001_R1_001.fastq.gz
+SAMEA2708764       ERR583405         ftp.sra.ebi.ac.uk/vol1/fastq/ERR583/ERR583405/ERR583405_2.fastq.gz      http://ftp.sra.ebi.ac.uk/vol1/run/ERR583/ERR583405/B_S12_L001_R2_001.fastq.gz
 
